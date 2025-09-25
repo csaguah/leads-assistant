@@ -1,7 +1,10 @@
 # Leads Assistant Legal Pages
 
-Este repositorio contiene las páginas requeridas para la verificación en Meta (WhatsApp Business 
-API).
+![Meta 
+Verified](https://img.shields.io/badge/Meta-Verified-brightgreen?style=for-the-badge&logo=meta)
+
+Este repositorio contiene las páginas requeridas para la verificación en **Meta (WhatsApp 
+Business API)**.
 
 ## 📑 Enlaces públicos
 
